@@ -7,6 +7,7 @@ public class A {
 		String a = "raju";
 		String b = "RAJU";
 		System.out.println(a+" "+b);
+		System.out.println(a + b +a + b);
 		
 	/*	System.out.println(a.length());
 		System.out.println(a.toUpperCase());
